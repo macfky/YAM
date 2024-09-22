@@ -1,4 +1,4 @@
-# Bienvenue dans le YAM
+# Bienvenue dans le YAM !
 
 ### C'est quoi le YAM !?
 
