@@ -37,13 +37,6 @@ yam/Projets/
     <projet>/
         README.md
         paroles.txt
-        tracks/
-            bass.wav
-            drum.wav
-            guit-lead.wav
-            vocal.wav
-            vocal-back.wav
-            ...
         mix/
             <projet>.mp3
 ```
