@@ -25,10 +25,12 @@ yam/Master/
 
 Mix finaux des projets du YAM
 
-1. [Défoncer les Chauves](Projets/Chauves/) (Mix [MP3](Projets/Chauves/mix/Chauves.mp3))
-2. [Catacombes](Projets/Catacombes/) (Mix [MP3](Projets/Catacombes/mix/Catacombes.mp3))
-3. [Perdu son Mohawk](Projets/Mohawk/) (Mix [MP3](Projets/Mohawk/mix/Mohawk.mp3))
-4. [Reggae](Projets/Reggae/) (Mix [MP3](Projets/Reggae/mix/Reggae.mp3))
+1. [Intro](Projets/Intro/) (Mix [MP3](Projets/Intro/mix/Intro.mp3))
+2. [Défoncer les Chauves](Projets/Chauves/) (Mix [MP3](Projets/Chauves/mix/Chauves.mp3))
+3. [Catacombes](Projets/Catacombes/) (Mix [MP3](Projets/Catacombes/mix/Catacombes.mp3))
+4. [Perdu son Mohawk](Projets/Mohawk/) (Mix [MP3](Projets/Mohawk/mix/Mohawk.mp3))
+5. [Reggae](Projets/Reggae/) (Mix [MP3](Projets/Reggae/mix/Reggae.mp3))
+6. [Six](Projets/Six/) (Mix [MP3](Projets/Six/mix/Six.mp3))
 
 ## Structure de Projet
 
