@@ -30,7 +30,7 @@ Mix finaux des projets du YAM
 3. [Catacombes](Projets/Catacombes/) (Mix [MP3](Projets/Catacombes/mix/Catacombes.mp3))
 4. [Perdu son Mohawk](Projets/Mohawk/) (Mix [MP3](Projets/Mohawk/mix/Mohawk.mp3))
 5. [Reggae](Projets/Reggae/) (Mix [MP3](Projets/Reggae/mix/Reggae.mp3))
-6. [Six](Projets/Six/) (Mix [MP3](Projets/Six/mix/Six.mp3))
+6. [Le Loup](Projets/Loup/) (Mix [MP3](Projets/Loup/mix/Loup.mp3))
 
 ## Structure de Projet
 
