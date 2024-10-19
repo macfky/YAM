@@ -31,6 +31,7 @@ Mix finaux des projets du YAM
 4. [Perdu son Mohawk](Projets/Mohawk/) (Mix [MP3](Projets/Mohawk/mix/Mohawk.mp3))
 5. [Reggae](Projets/Reggae/) (Mix [MP3](Projets/Reggae/mix/Reggae.mp3))
 6. [Le Loup](Projets/Loup/) (Mix [MP3](Projets/Loup/mix/Loup.mp3))
+7. [Le Chevreuil](Projets/Chevreuil/) (Mix [MP3](Projets/Chevreuil/mix/Chevreuil.mp3))
 
 ## Structure de Projet
 
